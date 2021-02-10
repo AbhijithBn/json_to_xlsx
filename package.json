@@ -1,0 +1,24 @@
+{
+  "name": "json_to_xlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+  },
+  "author": "Abhijith B N",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "xlsx": "^0.16.9"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
